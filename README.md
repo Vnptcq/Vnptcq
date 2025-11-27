@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=000000,434343&height=200&section=header&text=%20&fontSize=0)
 # Hi there, I'm Quý! 👋
 
 ### 🚀 Developer turning DevOps Engineer
