@@ -32,6 +32,3 @@ I am a versatile software engineer with a strong background in **Application Dev
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="bash" />
 </p>
-
----
-
