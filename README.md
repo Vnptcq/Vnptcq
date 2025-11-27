@@ -35,25 +35,3 @@ I am a versatile software engineer with a strong background in **Application Dev
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnptcq&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</div>
-
----
-
-### 📂 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **Cloud Infrastructure as Code** | Automated provisioning of AWS EC2 & VPC using Terraform. | Terraform, AWS |
-| **Microservices Deploy** | Dockerized Java Spring Boot app deployed on Azure AKS. | Java, Docker, K8s, Azure |
-| **CI/CD Pipeline Demo** | Automated testing and deployment workflow for a Node.js app. | GitHub Actions, JS |
-
----
-
-### 🔗 Connect with me
-<p align="left">
-  <a href="[Your LinkedIn URL]" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-</p>
