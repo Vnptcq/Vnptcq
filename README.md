@@ -2,7 +2,7 @@
 
 ### 🚀 Developer turning DevOps Engineer
 
-I am a versatile software engineer with a strong background in **Application Development** (Java, C#, Python), currently pivoting to **Cloud & DevOps**. I bridge the gap between code and infrastructure, ensuring software is scalable, secure, and deployable.
+I am a versatile software engineer with a strong background in **Application Development**, currently pivoting to **Cloud & DevOps**. I bridge the gap between code and infrastructure, ensuring software is scalable, secure, and deployable.
 
 - 🔭 I’m currently working on building **Cloud Infrastructure & CI/CD Pipelines**
 - 🌱 I’m currently diving deep into **AWS, Azure, and Terraform**
@@ -13,7 +13,7 @@ I am a versatile software engineer with a strong background in **Application Dev
 
 ### 🛠 Tech Stack
 
-**☁️ Cloud & DevOps (Current Focus)**
+**☁️ Cloud & DevOps**
 <p align="left">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="azure" />
@@ -24,7 +24,7 @@ I am a versatile software engineer with a strong background in **Application Dev
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="actions" />
 </p>
 
-**💻 Programming & Scripting (Strong Background)**
+**💻 Programming & Scripting**
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" />
@@ -38,8 +38,6 @@ I am a versatile software engineer with a strong background in **Application Dev
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vnptcq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="github stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vnptcq&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </div>
 
