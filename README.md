@@ -1,14 +1,14 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=333333&height=100&section=header&text=%20&fontSize=0)
-# Hi there, I'm Quý! 👋
+# Bonjour à tout, je suis Quý! 🚀
 
-### 🚀 Developer turning DevOps Engineer
+### 🔭 Developer turning DevOps Engineer
 
 I am a versatile software engineer with a strong background in **Application Development**, currently pivoting to **Cloud & DevOps**. I bridge the gap between code and infrastructure, ensuring software is scalable, secure, and deployable.
 
-- 🔭 I’m currently working on building **Cloud Infrastructure & CI/CD Pipelines**
-- 🌱 I’m currently diving deep into **AWS, Azure, and Terraform**
-- 💡 My goal: To automate everything and build resilient systems
-- 📫 Reach me at: **vnptcq@gmail.com**
+- I’m currently working on building **Cloud Infrastructure & CI/CD Pipelines**
+- I’m currently diving deep into **AWS, Azure, and Terraform**
+- My goal: To automate everything and build resilient systems
+- Reach me at: **vnptcq@gmail.com**
 
 ---
 
